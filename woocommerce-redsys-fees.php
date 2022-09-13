@@ -337,7 +337,7 @@ if ( ! class_exists( 'WCRF_Fees_Control' ) ) {
 			wc_get_template( 'checkout/form-pay.php', array(
 				'order'              => $order,
 				'available_gateways' => $available_gateways,
-				'order_button_text'  => apply_filters( 'woocommerce_pay_order_button_text', __( 'Pay for order', '' ) )
+				'order_button_text'  => apply_filters( 'woocommerce_pay_order_button_text', __( 'Pay for order', 'woocommerce_redsys_fees' ) )
 			) );
 
 			$buffer = ob_get_contents();
