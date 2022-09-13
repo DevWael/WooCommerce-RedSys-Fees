@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ph-woocommerce-deposits-premium/.idea/ph-woocommerce-deposits-premium.iml" filepath="$PROJECT_DIR$/../ph-woocommerce-deposits-premium/.idea/ph-woocommerce-deposits-premium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/woocommerce-redsys-fees.iml" filepath="$PROJECT_DIR$/.idea/woocommerce-redsys-fees.iml" />
+    </modules>
+  </component>
+</project>
